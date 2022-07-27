@@ -1,0 +1,12 @@
+Pixel Experience Plus
+by Pollos
+------------------------------
+Changelog
+------------------------------
+21 April 2021
+------------------------------
+1.April Security Patch
+2.Added Thermal Profiles
+3.Added Automated DC Dimming
+4.Added Vibration Control
+5.Readd Black BG
